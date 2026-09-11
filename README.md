@@ -49,7 +49,7 @@ The tests reproduce the supplied Dorian Gray output, the complete 100-value K-bo
 - `assignment/hw1_tester.py`: supplied tester preserved in its original form
 - `assignment/fixtures/`: supplied input and expected-output files used by that tester
 - `assignment/score-key.pdf`: supplied generic grading key
-- `solution/written-answers.pdf`: my four-page written submission with identifying metadata reduced to the author's name
+- `solution/written-answers.pdf`: my four-page written submission
 - `src/extended_intro_hw1/`: maintained implementations and command-line interface
 - `tests/`: portable pytest regression suite derived from the supplied checks
 
