@@ -50,13 +50,5 @@ The tests reproduce the supplied Dorian Gray output, the complete 100-value K-bo
 - `assignment/fixtures/`: supplied input and expected-output files used by that tester
 - `assignment/score-key.pdf`: supplied generic grading key
 - `solution/written-answers.pdf`: my four-page written submission
-- `src/extended_intro_hw1/`: maintained implementations and command-line interface
+- `src/extended_intro_hw1/`: Python package containing the implementations and command-line interface
 - `tests/`: portable pytest regression suite derived from the supplied checks
-
-## Implementation notes
-
-The original Pages document is omitted because its exported PDF contains the same written answers in a portable format. Apple resource forks, generated metadata, and byte-identical copies from the enclosing homework archive are also omitted.
-
-## License
-
-No repository-wide license is declared because the repository combines original work with supplied material whose reuse terms were not recorded.
