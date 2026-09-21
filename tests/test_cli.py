@@ -1,4 +1,4 @@
-from extended_intro_hw1.cli import cli
+from extended_intro_hw1_cli import cli
 
 
 def test_k_boom_cli(monkeypatch, capsys) -> None:

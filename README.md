@@ -16,7 +16,7 @@ cd bsc-extended-intro-cs-hw1
 uv sync --dev
 ```
 
-The maintained package supports Python 3.10 or newer and has no runtime dependencies.
+The implementation supports Python 3.10 or newer and has no runtime dependencies.
 
 ## Usage
 
@@ -50,5 +50,5 @@ The tests reproduce the supplied Dorian Gray output, the complete 100-value K-bo
 - `assignment/fixtures/`: supplied input and expected-output files used by that tester
 - `assignment/score-key.pdf`: supplied generic grading key
 - `solution/written-answers.pdf`: my four-page written submission
-- `src/extended_intro_hw1/`: Python package containing the implementations and command-line interface
+- `src/`: exercise code and command-line interface
 - `tests/`: portable pytest regression suite derived from the supplied checks

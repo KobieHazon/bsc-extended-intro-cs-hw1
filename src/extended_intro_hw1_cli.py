@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from .exercises import avg_word_len, k_boom, max_even_seq
+from extended_intro_hw1 import avg_word_len, k_boom, max_even_seq
 
 
 def build_parser() -> argparse.ArgumentParser:

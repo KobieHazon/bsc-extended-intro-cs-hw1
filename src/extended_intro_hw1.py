@@ -4,6 +4,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
+__all__ = ["avg_word_len", "k_boom", "max_even_seq"]
+
 OUTPUT_FILENAME = "output.txt"
 
 
